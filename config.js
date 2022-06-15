@@ -13,7 +13,7 @@ global.pulsa = '085828764046'
 global.gopay = '085828764046'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'zifabotz-MD'
+global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD3⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 5.000\npermanen 2grup 10.000\npermanen 3grup/lebih 20.000'
@@ -23,9 +23,9 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'zifabotz'
+global.wm = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD3⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = '                     「 zifabotz 」'
+global.wm2 = '                     「 ⳹ ❋ཻུ۪۪⸙Zifabotz-MD3⳹ ❋ཻུ۪۪ 」'
 global.wm3 = '⫹⫺ zifabotz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
