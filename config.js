@@ -15,17 +15,17 @@ global.gopay = '085828764046'
 //=============『 Info Bot 』=================//
 global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD3⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://rozi-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 5.000\npermanen 2grup 10.000\npermanen 3grup/lebih 20.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD3⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = '                     「 ⳹ ❋ཻུ۪۪⸙Zifabotz-MD3⳹ ❋ཻུ۪۪ 」'
+global.wm2 = '     「 zifabotz-MD 」'
 global.wm3 = '⫹⫺ zifabotz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© zifabotz_offc1'
+global.author = '©️ zifabotz_offc1'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
