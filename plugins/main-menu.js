@@ -507,35 +507,35 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'Website Creator',
+               displayText: '🌎 website creator 🌎',
                url: web
              }
 
            },
              {
              urlButton: {
-               displayText: 'Group Bot', 
+               displayText: '🗃️ Group Bot 🗃️', 
                url: gc
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'Owner',
+               displayText: '😼 Owner 😼',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'Donasi',
+               displayText: '💌 Donasi 💌',
                id: '.donasi',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: 'Credits',
+               displayText: '🙏TERIMAKASIH KEPADA CREATOR🙏',
                id: '.tqto',
              }
            }]
